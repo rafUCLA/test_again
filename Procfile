@@ -1,0 +1,1 @@
+web: java -jar out/artifacts.test_again_jar/test_again.jar
